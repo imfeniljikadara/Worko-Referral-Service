@@ -1,0 +1,61 @@
+/* src/components/Index.css */
+
+/* Navbar styles */
+
+.navbar {
+    background-color: #ffffff;
+    box-shadow: 0 2px 4px rgba(0, 0, 0, 0.1);
+  }
+  
+  .navbar-brand {
+    color: #007bff; /* Blue color */
+  }
+  
+  /* Content container styles */
+  .content-container {
+    margin-top: 20px;
+  }
+  
+  /* Header styles */
+  header {
+    background-color: #000000;
+    color: #ffffff;
+    margin-top: -25px;
+    margin-bottom: -25px;
+  }
+  
+  /* Footer styles */
+  footer {
+    background-color: #000000;
+    color: #ffffff;
+    margin-bottom: -200%;
+  }
+  
+  .index-image {
+    height: 85%;
+    margin-left: 82.95%;
+    margin-top: -25px;
+    margin-bottom: -50px; 
+  }
+
+  .index-image1{
+    height: 85%;
+    margin-left: -14.5%;
+    margin-top: -100%;
+    margin-bottom: -50px; 
+  }
+  
+  .index-image2{
+    height: 85%;
+    margin-right: 33%;
+    margin-top: -75%;
+    margin-bottom: -50px; 
+  }
+  
+  .index-image3{
+    height: 85%;
+    margin-right: 40%;
+    margin-top: -40%;
+    margin-bottom: -50px; 
+  }
+

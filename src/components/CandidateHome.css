@@ -1,0 +1,28 @@
+/* src/components/CandidateHome.css */
+
+/* Navbar styles */
+.navbar {
+    background-color: #ffffff;
+    box-shadow: 0 2px 4px rgba(0, 0, 0, 0.1);
+  }
+  
+  .navbar-brand {
+    color: #007bff; /* Blue color */
+  }
+  
+  /* Content container styles */
+  .content-container {
+    margin-top: 20px;
+  }
+  
+  /* Section title styles */
+  .section-title {
+    color: #007bff; /* Blue color */
+  }
+  
+  /* Card styles */
+  .card {
+    margin-bottom: 20px;
+    box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);
+  }
+  
