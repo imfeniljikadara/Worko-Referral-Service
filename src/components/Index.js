@@ -34,7 +34,7 @@ const Index = () => {
 
         <main>
           {<div className="py-4">
-              <img src="/src/globe-img.png" className="index-image" alt="Office workspace 1" />
+              <img src="globe-img.png" className="index-image" alt="Office workspace 1" />
               <img src="/srs/logo_bg.png" className="index-image1" alt="Office workspace 2" />
               <img src="/srs/Screenshot_2024-07-10_at_4.06.00_PM-removebg-preview.png" className="index-image2" alt="Office workspace 3" />
               <img src="/srs/Screenshot_2024-07-10_at_4.06.09_PM-removebg-preview.png" className="index-image3" alt="Office workspace 4" />
