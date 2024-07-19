@@ -4,10 +4,10 @@ import { Link } from 'react-router-dom';
 import { Container, Navbar, Form, FormControl, Button } from 'react-bootstrap';
 // import SearchComponent from './SearchComponent';
 import './Index.css'; // Custom CSS for Index page
-import image1 from 'src/globe-img.png';
-import image2 from 'src/logo_bg.png';
-import image3 from 'src/Screenshot_2024-07-10_at_4.06.00_PM-removebg-preview.png';
-import image4 from 'src/Screenshot_2024-07-10_at_4.06.09_PM-removebg-preview.png';
+import image1 from '/src/globe-img.png';
+import image2 from '/src/logo_bg.png';
+import image3 from '/src/Screenshot_2024-07-10_at_4.06.00_PM-removebg-preview.png';
+import image4 from '/src/Screenshot_2024-07-10_at_4.06.09_PM-removebg-preview.png';
 const Index = () => {
   return (
     <div>
