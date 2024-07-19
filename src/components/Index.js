@@ -33,7 +33,7 @@ const Index = () => {
         </header>
 
         <main>
-          {<div className="py-4">
+          <div className="py-4">
               <img src="/srs/globe-img.png" className="index-image" alt="1" />
               <img src="/srs/logo_bg.png" className="index-image1" alt="2" />
               <img src="/srs/Screenshot_2024-07-10_at_4.06.00_PM-removebg-preview.png" className="index-image2" alt="3" />
@@ -42,7 +42,7 @@ const Index = () => {
             // <img src={/srs/logo_bg.png} alt="Office workspace 2" className="index-image1" />
             // <img src=/srs/Screenshot_2024-07-10_at_4.06.00_PM-removebg-preview.png} alt="Office workspace 3" className="index-image2" />
             // <img src={srs/Screenshot_2024-07-10_at_4.06.09_PM-removebg-preview.png} alt="Office workspace 4" className="index-image3" />
-          </div>}
+          </div>
         </main>
 
         <footer className="mt-5 text-center">
